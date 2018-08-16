@@ -13,9 +13,9 @@
 (function () {
     let zmiany = [
         {co: 20, naco: 100, opis: "100"},
-        {co: 35, naco: 25, opis: "klapsy"},
+        {co: 35, naco: 25, opis: "klpsy"},
         {co: 50, naco: 30, opis: "cycki"},
-        {co: 75, naco: 50, opis: "hiszpan"},
+        {co: 75, naco: 50, opis: "hiszp"},
         {co: 100, naco: 70, opis: "lubię"}
     ];
     let elementy = [];
